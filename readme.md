@@ -1,4 +1,4 @@
-# Create-User-in-Openshift-by-Htpasswd
+# Create-User-in-Openshift-by-Htpasswd-IdentityProvider
 
 ------------------------------------------------------------------------------------------------------
 # Step1: Retrive Htpasswd File from secret (i.e htpasswd-secret) located in "openshift-config" project
